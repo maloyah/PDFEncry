@@ -1,9 +1,4 @@
 ﻿/*
-    This file is part of the PDFEncry, providing a user-friendly
-    interface to encrypting pdfs, utilizing the iTextSharp PDF library.
-    Copyright (c) 2018 Mark Harrison.
-    Contact via https://github.com/harrisonmeister/PdfEncryptor/issues
-
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as
     published by the Free Software Foundation, either version 3 of the
